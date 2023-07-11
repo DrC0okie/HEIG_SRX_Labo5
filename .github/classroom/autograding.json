@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Ping",
+      "setup": "",
+      "run": "test/runit.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 3
+    }
+  ]
+}
